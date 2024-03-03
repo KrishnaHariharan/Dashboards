@@ -4,19 +4,21 @@ Welcome to the Amazon Prime Data Analysis project! 🚀 In this project, we expl
 Key Findings
 1. Content Gap in India 🇮🇳
 Limited content focused on Kids and Animation genres.
+
 2. Amazon's Movie Affection 🍿🎬
 Historical data suggests a consistent preference for Movies over TV shows.
+
 3. European Laughter Hub 🤣🌍
 A higher concentration of comedy-genre content in Europe compared to India.
+
 4. Age Preference in India 📺🔞
 Majority of Amazon Prime's content in India caters to the 13+ age group.
+
 5. Market Dynamics 🇮🇳🆚🇺🇸
 Despite India's higher population, Amazon Prime faces stiff competition and has not replicated the success seen in the USA.
+
 Data Source 📊
 Explore the dataset that fueled these insights on Kaggle: Amazon Prime Kaggle Dataset
-
-Tutorial Followed 🎓
-Learn how to create a similar Power BI dashboard with this tutorial: Power BI Dashboard Tutorial
 
 Project Structure 📂
 PowerBI_Dashboard.pbix: Power BI file containing the interactive dashboard.
