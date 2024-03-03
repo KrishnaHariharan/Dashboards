@@ -1,0 +1,40 @@
+Amazon Prime Data Analysis with Power BI 📈🔍
+Welcome to the Amazon Prime Data Analysis project! 🚀 In this project, we explore insights from the Amazon Prime Movies and TV Shows dataset available on Kaggle. Our Power BI dashboard provides a visual journey through key findings about Amazon Prime's content strategy in different regions.
+
+Key Findings
+1. Content Gap in India 🇮🇳
+Limited content focused on Kids and Animation genres.
+2. Amazon's Movie Affection 🍿🎬
+Historical data suggests a consistent preference for Movies over TV shows.
+3. European Laughter Hub 🤣🌍
+A higher concentration of comedy-genre content in Europe compared to India.
+4. Age Preference in India 📺🔞
+Majority of Amazon Prime's content in India caters to the 13+ age group.
+5. Market Dynamics 🇮🇳🆚🇺🇸
+Despite India's higher population, Amazon Prime faces stiff competition and has not replicated the success seen in the USA.
+Data Source 📊
+Explore the dataset that fueled these insights on Kaggle: Amazon Prime Kaggle Dataset
+
+Tutorial Followed 🎓
+Learn how to create a similar Power BI dashboard with this tutorial: Power BI Dashboard Tutorial
+
+Project Structure 📂
+PowerBI_Dashboard.pbix: Power BI file containing the interactive dashboard.
+data/: Folder containing the dataset used for analysis.
+images/: Images used in the project.
+How to Use 🛠️
+Download and install Power BI.
+Open PowerBI_Dashboard.pbix in Power BI.
+Explore and interact with the dashboard to uncover more insights.
+Contributing 🤝
+Contributions are welcome! If you discover new insights or have ideas for improvements, feel free to submit a pull request.
+
+License 📜
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🚀 Dive into the world of Amazon Prime data analysis! Share your thoughts, insights, and discoveries. Let's uncover more together! 💬🔍
+
+
+
+
+
