@@ -1,4 +1,4 @@
-**Power BI Analytics Dashboard Repository
+Power BI Analytics Dashboard Repository
 **Welcome to the Power BI Analytics Dashboard repository! 🚀
 
 Overview
