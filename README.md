@@ -27,5 +27,4 @@ Documentation: In-depth guides on setting up, customizing, and deploying the Pow
 
 Issues: Report issues, suggest new features, or join discussions with the community.
 
-Contributing Guidelines: Learn how to contribute to the project.
 
